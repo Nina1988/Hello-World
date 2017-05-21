@@ -1,7 +1,6 @@
 # Hello-World
 test_repo
-Hi Mr. Yunxu,
-Do you know that I miss you so much? I want tokee accompany with you. I will see you soon.
-
+Hi Nina,
+The result of data analysis is conducted successfully. Check it right now.
 Thanks,
 Liping
